@@ -1,23 +1,22 @@
-WINDRA & WINDA — FILLED WITH MIRACLES STYLE V4
+WINDRA & WINDA — FILLED WITH MIRACLES INSPIRED STYLE V6
 
-This version changes the concept from the NIKAHFIX cinema layout to an elegant editorial wedding invitation inspired by the supplied Filled With Miracles reference.
+Wedding invitation for Yuwindra Gunter Makunimau & Winda Anastasia Claudia Baleare.
+Date: 16 October 2026, 10.00 WITA
+Venue: GMIT Pola Tribuana Kalabahi, Alor, NTT.
+
+V6 follows the supplied Filled With Miracles reference direction with original implementation and assets. YouTube/live streaming, crypto/Bitcoin and reception features are intentionally omitted.
 
 Features:
-- Invitation cover with guest-name query: ?n=Nama Tamu
-- Open Invitation + background music
-- Couple section with groom/bride portraits using contain so the photos are not cropped
-- Countdown + Add to Calendar
-- Wedding Details + Google Maps
-- RSVP via WhatsApp 6287820649530
-- Wedding Gift: WINDA ANASTASIA CLAU / Bank Mandiri / 1400021947107
-- Copy account number
+- cinematic loading screen and invitation cover
+- guest personalization via ?n=Guest Name or ?to=Guest Name
+- background music after opening invitation
+- couple section with groom/bride photos shown without cropping
+- countdown + Google Calendar
+- wedding details with supplied pencil church illustration
+- RSVP to WhatsApp 6287820649530
+- wedding gift: Bank Mandiri / WINDA ANASTASIA CLAU / 1400021947107
 - 10-photo gallery: 5 beach/new photos + 5 traditional photos
-- Fullscreen gallery lightbox
-- Responsive mobile design
+- fullscreen lightbox gallery
+- responsive desktop/mobile layout
 
-Keep the folder structure intact when uploading to hosting.
-
-
-LOCATION ILLUSTRATION
-- images/church-sketch.png is the supplied pencil sketch of GMIT Pola Tribuana Kalabahi.
-- It is displayed in the Wedding Details section without cropping (contain).
+Keep the folder structure intact when deploying to GitHub Pages.
