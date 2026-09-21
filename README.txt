@@ -20,3 +20,9 @@ Features:
 - responsive desktop/mobile layout
 
 Keep the folder structure intact when deploying to GitHub Pages.
+
+
+V7 visual update:
+- Multi-photo background collage using all 10 prewedding images.
+- Church pencil sketch background removed and blended as a transparent illustration.
+- Content sections use translucent ivory layers so the photo collage subtly remains visible.
